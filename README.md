@@ -1,3 +1,5 @@
+**#Intel KPR Hackathon 2024**
+
 # TerraSense
 Know Your Soil, Grow Your Future
 
